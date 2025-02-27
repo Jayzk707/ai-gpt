@@ -27,7 +27,7 @@ Auth: {
   Later: "稍后再说",
   SaasTips: "配置太麻烦，想要立即使用",
   TopTips:
-    '🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型',
+    '🥳 KK2C3首页导航地址，立刻解锁更多好玩的应用等最新大模型',
 },
 
   ChatItem: {
@@ -311,14 +311,14 @@ Auth: {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
 
-    // Access: {
-    //   SaasStart: {
-    //     Title: "使用 NextChat AI",
-    //     Label: "（性价比最高的方案）",
-    //     SubTitle:
-    //       "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-    //     ChatNow: "立刻对话",
-    //   },
+    Access: {
+      SaasStart: {
+        Title: "使用 NextChat AI",
+        Label: "（性价比最高的方案）",
+        SubTitle:
+          "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
+        ChatNow: "立刻对话",
+      },
       AccessCode: {
         Title: "访问密码",
         SubTitle: "管理员已开启加密访问",
