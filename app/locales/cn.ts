@@ -9,10 +9,10 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? `😆 对话遇到了一些问题，不用慌:
-       \\ 1️⃣ 🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型'
+       \\ 1️⃣ 🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型
        \\ 2️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️`
       : `😆 对话遇到了一些问题，不用慌:
-       \ 1️⃣ 🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型'
+       \ 1️⃣ 🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型
        \ 2️⃣ 如果你正在使用KK2C3私有部署版本，点击[这里](/#/auth)输入访问密码或秘钥 🔑
        \ 3️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️
        `,
