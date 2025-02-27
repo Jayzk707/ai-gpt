@@ -17,18 +17,19 @@ const cn = {
        \ 3️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️
        `,
   },
-  Auth: {
-    Return: "返回",
-    Title: "需要密码",
-    Tips: "管理员开启了密码验证，请在下方填入访问码",
-    SubTips: "或者输入你的 OpenAI 或 Google AI 密钥",
-    Input: "在此处填写访问码",
-    Confirm: "确认",
-    Later: "稍后再说",
-    SaasTips: "配置太麻烦，想要立即使用",
-    TopTips:
-      "🥳 NextChat AI 首发优惠，立刻解锁 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-  },
+Auth: {
+  Return: "返回",
+  Title: "需要密码",
+  Tips: "管理员开启了密码验证，请在下方填入访问码",
+  SubTips: "或者输入你的 OpenAI 或 Google AI 密钥",
+  Input: "在此处填写访问码",
+  Confirm: "确认",
+  Later: "稍后再说",
+  SaasTips: "配置太麻烦，想要立即使用",
+  TopTips:
+    '🥳 KK2C3<a href="https://kk2c3.top" target="_blank">首页导航地址</a>，立刻解锁更多好玩的应用等最新大模型',
+},
+
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
   },
@@ -310,14 +311,14 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
 
-    Access: {
-      SaasStart: {
-        Title: "使用 NextChat AI",
-        Label: "（性价比最高的方案）",
-        SubTitle:
-          "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-        ChatNow: "立刻对话",
-      },
+    // Access: {
+    //   SaasStart: {
+    //     Title: "使用 NextChat AI",
+    //     Label: "（性价比最高的方案）",
+    //     SubTitle:
+    //       "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
+    //     ChatNow: "立刻对话",
+    //   },
       AccessCode: {
         Title: "访问密码",
         SubTitle: "管理员已开启加密访问",
